@@ -5,7 +5,7 @@ class Car :
 
     def display_info(self):
         print(f"Brand: {self.brand}, Price: {self.price}")
-
+# this is a change, that i made on github website
 car1 = Car("Toyota", 20000)
 car2 = Car("Honda", 25000)
 
